@@ -6,7 +6,7 @@
 #include <math.h>
 #include <time.h>
 
-
+//fazendo modificações
 //aqui eu estabeleço todas as structs necessarias  
 typedef struct {
     char tp_cartao[100]; //variavel com o tipo de cartão (poupança, debito, credito etc)
